@@ -1,6 +1,11 @@
 
-Android BluetoothLeGatt Sample
+Android BluetoothLe Echo (based on BluetoothLeGatt Sample)
 ===================================
+
+See URL: http://android-er.blogspot.com/2015/12/android-send-data-to-bluetooth-le.html
+
+Arduino PIN setup:
+http://www.martyncurrey.com/wp-content/uploads/2017/01/HM-10_Circuit_001_800.jpg
 
 This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
 to transmit arbitrary data between devices.
@@ -27,10 +32,6 @@ Prerequisites
 - Android Build Tools v23.0.2
 - Android Support Repository
 
-Screenshots
--------------
-
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-detail.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------
