@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\.android\build-cache\623ac1c0887033b852d1f310032568765f62a1a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\classes_b1059560f1841e8fcfd356a995a5884aecd6e5a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\05Dez2018\BLE_echo\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6896e3918b48b384743a47df449af044e9f67a36">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BLE_echo\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25547d1ea36563092c606e756be0a975d20974a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b024cbfc7580f62e5482b7c255ba580a3eb7f5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_23c450a33b02a13e472c16177ced3d17b7914f99.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78a872b18caca98d487eda983646a84f2bf7b24a">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b3c0af6f88f1b03663883adb654b5a95db6e986d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\.android\build-cache\623ac1c0887033b852d1f310032568765f62a1a2\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_43a37decab6bf5caec677a54ca365e7896c95fee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\.android\build-cache\930882f73a91eae69afca22c9ced4ee97111506b\output\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_a111ca35adf39f535e071206e65bd258c7ba6be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\.android\build-cache\0e6f2d41b02a192ab2825085b61e843d8ca09aab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\classes_ff4217bf56e324fa93431b8296a61a88ca123581.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\patri\work_today\05Dez2018\BLE_echo\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BLE_echo\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6746d63cb22cff14a51d8d4715f9e525958aafd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\patri\.android\build-cache\930882f73a91eae69afca22c9ced4ee97111506b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\patri\work_today\05Dez2018\BluetoothLeGatt1\Application\build\intermediates\pre-dexed\debug\classes_59c5fcfdbc6874c008280c0b565c14392831d37c.jar" />
+    </item>
+
+</items>

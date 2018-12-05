@@ -1,0 +1,7 @@
+#Wed Dec 05 09:56:49 CET 2018
+base.0=C\:\\Users\\patri\\work_today\\05Dez2018\\BLE_echo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6746d63cb22cff14a51d8d4715f9e525958aafd4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\patri\\work_today\\05Dez2018\\BLE_echo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25547d1ea36563092c606e756be0a975d20974a9\\classes.dex
+base.1=C\:\\Users\\patri\\work_today\\05Dez2018\\BLE_echo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25547d1ea36563092c606e756be0a975d20974a9
+file.0=C\:\\Users\\patri\\work_today\\05Dez2018\\BLE_echo\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6746d63cb22cff14a51d8d4715f9e525958aafd4\\classes.dex
